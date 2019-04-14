@@ -1,0 +1,14 @@
+[26-Dec-2017 07:45:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php:14) in /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php on line 17
+[26-Dec-2017 07:49:25 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php on line 24
+[26-Dec-2017 07:51:15 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php on line 24
+[30-Dec-2017 20:21:22 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/appfuiuac/public_html/developer/hotel_finder/details.php on line 15
+[30-Dec-2017 20:21:22 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/appfuiuac/public_html/developer/hotel_finder/details.php on line 15
+[01-Jan-2018 07:14:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php on line 1230
+[01-Jan-2018 07:15:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php on line 1230
+[01-Jan-2018 07:15:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php on line 1230
+[01-Jan-2018 07:16:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php on line 1229
+[01-Jan-2018 07:17:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php on line 1229
+[01-Jan-2018 07:18:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php on line 1229
+[01-Jan-2018 07:19:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php on line 1229
+[01-Jan-2018 08:47:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php:14) in /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php on line 17
+[01-Jan-2018 08:47:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php:14) in /home/appfuiuac/public_html/developer/hotel_finder/hotel_finder.php on line 17
